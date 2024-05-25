@@ -99,7 +99,7 @@ public class MyClass {
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for additional features or patterns, feel free to open an issue or submit a pull request on [GitHub](https://github.com/josafamrengo/design-patterns-extension/issues).
+Contributions are welcome! If you have suggestions for additional features or patterns, feel free to open an issue or submit a pull request on [GitHub](https://github.com/josafamarengo/design-patterns-extension/issues).
 
 ## License
 
