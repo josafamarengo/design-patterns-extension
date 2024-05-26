@@ -4,6 +4,35 @@
   "description": "Design Patterns Snippets for Java is an extension that makes it easy to quickly implement GoF (Gang of Four) design patterns in Java projects.",
   "version": "0.0.1",
   "publisher": "JosafaMarengo",
+  "author": {
+    "name": "Josafá Marengo",
+    "email": "josafabmarengo@gmail.com",
+    "url": "https://josafa.com.br"
+  },
+  "bugs": {
+    "email": "josafabmarengo@gmail.com",
+    "url": "https://github.com/josafamarengo/design-patterns-extension/issues"
+  },
+  "galleryBanner": {
+    "color": "#a07adf"
+  },
+  "homepage": "https://github.com/josafamarengo/design-patterns-extension",
+  "keywords": [
+    "snippets for java",
+    "design patterns",
+    "design patterns java",
+    "gof design patterns",
+    "builder snippet",
+    "factory method snippet",
+    "singleton snippet",
+    "builder pattern snippet",
+    "snippets",
+    "java"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josafamarengo/design-patterns-extension.git"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },
