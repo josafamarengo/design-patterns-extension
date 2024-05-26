@@ -3,6 +3,7 @@
   "displayName": "Design Patterns Snippets for Java",
   "description": "Design Patterns Snippets for Java is an extension that makes it easy to quickly implement GoF (Gang of Four) design patterns in Java projects.",
   "version": "0.0.1",
+  "publisher": "JosafaMarengo",
   "engines": {
     "vscode": "^1.89.0"
   },
