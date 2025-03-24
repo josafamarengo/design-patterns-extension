@@ -6,6 +6,10 @@
 
 <h3 align="center">Design Patterns Snippets for Java</h3>
 
+  ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/JosafaMarengo.design-patterns-snippets-for-java?style=for-the-badge)
+  ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/JosafaMarengo.design-patterns-snippets-for-java?style=for-the-badge)
+
+
   <p align="center">
     Enhance your Java code with design patterns and improve your development workflow with the Design Patterns Extension for VS Code!
   </p>
@@ -107,8 +111,10 @@ This extension is licensed under the GLPv3 License. See the [LICENSE](LICENSE) f
 
 ## Contact
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josafamarengo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@josafa.marengo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/josafamarengo)
+
 If you have any questions, suggestions, or feedback, feel free to reach out!
 - Website: [josafa.com.br](https://josafa.com.br)
-- GitHub: [@josafamarengo](https://github.com/josafamarengo)
-- LinkedIn: [@josafamarengo](https://linkedin.com/in/josafamarengo)
 - Email: josafabmarengo@gmail.com
